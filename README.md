@@ -9,7 +9,7 @@ Any critique about my programming etiqute is apperciated has I am trying to impr
 
 To run this project insert this command line prompt into the teriminal replacing the text file directory with what ever you have in your own project:
 
-"python3 main.py books/book_title.txt
+"python3 main.py books/book_title.txt"
 
 # Skills Demonstrated
 1. Python programming
